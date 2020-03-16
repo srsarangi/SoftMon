@@ -1,0 +1,21 @@
+
+
+This tool counts the number of times a routine is executed and the number of instructions 
+executed in a routine along with the sequence of calls and ret for a function.
+
+Compiling:
+
+Download Pin Tool from "https://software.intel.com/en-us/articles/pin-a-binary-instrumentation-tool-downloads".
+We have tested with PIN 3.11 on Linux-64 bit system.
+
+Copy the file proccount-thread.cpp to pin-3.11/source/tools/ManualExamples/proccount-thread.cpp
+Build instructions: make obj-intel64/proccount-thread.so TARGET=intel64
+
+Trace collection:
+
+Run proccount-thread.sh
+
+pin-3.11/pin -t pin-3.11/source/tools/ManualExamples/obj-intel64/proccount-thread.so -- <user application> <arguments>
+
+The instruction count of each function will be stored in proccount2.out
+The function call and ret sequence will be stored proccount1.out

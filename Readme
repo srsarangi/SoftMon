@@ -1,1 +1,30 @@
-First commit
+SoftMon Tool
+
+The tool comprises of the following modules:
+
+1) Trace Collection
+
+2) Graph Engine
+
+3) Comment Engine
+
+4) Match Engine
+
+5) Library Engine
+
+
+Pre-requisites
+
+1) Pin Tool: Download from https://software.intel.com/en-us/articles/pin-a-binary-instrumentation-tool-downloads
+
+2) SpaCy: Install from https://spacy.io/ (for python-3) [download module 'en_core_web_md']
+
+3) Cscope: http://cscope.sourceforge.net/
+
+4) Graphviz: https://www.graphviz.org/
+
+5) Python-3: regex, os, subprocess, sys, munkres (https://pypi.org/project/munkres/)
+
+
+
+
