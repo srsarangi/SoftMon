@@ -1,0 +1,39 @@
+1) GET FUNCTIONS
+15
+25
+3) NLP SCORE
+N:15
+M:25
+4) HUNGARIAN
+Total cost: -14.45
+5) MATCHED
+       Ins diff  NLP |    Func id Function name                                       Ins count   Node ins  Num calls |    Func id Function name                                       Ins count   Node ins  Num calls
+       22274209 1.00 |       8136 MagickCommandGenesis                                 19620616         79          1 |       8037 MagickCommandGenesis                                 41894825        252          1
+       22272498 0.80 |       8226 ConvertImageCommand                                  19609326        276          1 |       8135 MagickImageCommand                                   41881824        148          1
+       22252018 0.65 |       2730 main                                                 20106211         36          1 |       2730 MagickMain                                           42358229        322          1
+       16634119 1.00 |      17647 ReadPNGImage                                         11653944         99          1 |      15368 ReadPNGImage                                         28288063        101          1
+       16632463 1.00 |      18185 ReadOnePNGImage                                      11622937    1655503          1 |      15921 ReadOnePNGImage                                      28255400    3753197          1
+       16515805 1.00 |       8366 ReadImages                                           12082314         62          1 |       8328 ReadImages                                           28598119         76          1
+       16515782 1.00 |       8454 ReadImage                                            12076323        339          1 |       8411 ReadImage                                            28592105        319          1
+        5788918 1.00 |      31249 WriteJPEGImage                                        7386550    5832785          1 |      28235 WriteJPEGImage                                       13175468   11326452          1
+        5780771 1.00 |      30873 WriteImage                                            7405899        168          1 |      28021 WriteImage                                           13186670        146          1
+        5777583 1.00 |      30466 WriteImages                                           7431878        118          1 |      27648 WriteImages                                          13209461        115          1
+        2335635 1.00 |      19721 ImportRGBAQuantum                                     6068490    6068490        365 |      18465 ImportRGBAQuantum                                     8404125    8404125        365
+        2322491 1.00 |      19712 ImportQuantumPixels                                   6154277      31027        365 |      18458 ImportQuantumPixels                                   8476768      28837        365
+              4 1.00 |      19691 memset@plt                                            3510605      31758        365 |      17287 memset@plt                                            3510609      31758        365
+              0 1.00 |      19701 Magick_png_malloc                                     3122195    3122195        368 |      17297 Magick_png_malloc                                     3122195    3122195        368
+              0 1.00 |      35286 EmptyOutputBuffer                                     1183340    1182243          3 |      32214 EmptyOutputBuffer                                     1183340    1182243          3
+6) NOT MATCHED
+   Func ID Function Name                                       Ins count     Mcount  Num calls
+FN 0
+FN 1
+      8302 ProcessCommandOptions                                41859268        172          1
+      8305 CLIOption                                            41848626        180          2
+      8307 CLINoImageOperator                                   41827235       3190          2
+     17300 GetAuthenticPixels                                   12328060      18615        365
+     17302 GetAuthenticPixelCacheNexus                          12307983      12775        365
+     17303 QueueAuthenticPixelCacheNexus                        12295208      27010        365
+     17304 GetImagePixelCache                                   12240823      28835        365
+     17306 OpenPixelCache                                       12200674        185          1
+     17333 ClonePixelCacheRepository                            12198772        105          1
+     17340 ClonePixelCacheRepository._omp_fn.0                  12193300   12136710          1

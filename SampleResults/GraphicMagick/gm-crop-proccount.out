@@ -1,0 +1,681 @@
+              Procedure           Image            Address        Calls Instructions
+                  .fini /lib/x86_64-linux-gnu/librt.so.1       7f2aeb358750            1            3
+               .plt.got /lib/x86_64-linux-gnu/librt.so.1       7f2aeb3551f0            1            1
+                  _init /lib/x86_64-linux-gnu/librt.so.1       7f2aeb354e58            1            6
+                  .fini /lib/x86_64-linux-gnu/libbsd.so.0       7f2aeb56b350            1            3
+                  .text /lib/x86_64-linux-gnu/libbsd.so.0       7f2aeb55e450            1           37
+               .plt.got /lib/x86_64-linux-gnu/libbsd.so.0       7f2aeb55e440            1            1
+                  _init /lib/x86_64-linux-gnu/libbsd.so.0       7f2aeb55dde8            1            6
+                  .fini /lib/x86_64-linux-gnu/libgcc_s.so.1       7f2aeb783370            1            3
+   __cpu_indicator_init /lib/x86_64-linux-gnu/libgcc_s.so.1       7f2aeb772df0            1           60
+               .plt.got /lib/x86_64-linux-gnu/libgcc_s.so.1       7f2aeb772ab0            1            1
+                  _init /lib/x86_64-linux-gnu/libgcc_s.so.1       7f2aeb7727e0            1            6
+                  .fini /usr/lib/x86_64-linux-gnu/libstdc++.so.6       7f2aebac39f0            1            3
+_ZNSt3_V214error_categoryD1Ev /usr/lib/x86_64-linux-gnu/libstdc++.so.6       7f2aeba45550            3            3
+ _ZSt15future_categoryv /usr/lib/x86_64-linux-gnu/libstdc++.so.6       7f2aeba439a0            1           17
+    __cxa_guard_release /usr/lib/x86_64-linux-gnu/libstdc++.so.6       7f2aeba1b050            1           15
+    __cxa_guard_acquire /usr/lib/x86_64-linux-gnu/libstdc++.so.6       7f2aeba1aed0            1           30
+_ZNSt14error_categoryD2Ev /usr/lib/x86_64-linux-gnu/libstdc++.so.6       7f2aeba188f0            2            2
+_ZNSt14error_categoryC1Ev /usr/lib/x86_64-linux-gnu/libstdc++.so.6       7f2aeba188e0            2            8
+__cxa_guard_acquire@plt /usr/lib/x86_64-linux-gnu/libstdc++.so.6       7f2aeba12fb0            1            3
+_ZNSt14error_categoryD2Ev@plt /usr/lib/x86_64-linux-gnu/libstdc++.so.6       7f2aeba12930            2            4
+_ZNSt14error_categoryC2Ev@plt /usr/lib/x86_64-linux-gnu/libstdc++.so.6       7f2aeba12740            2            4
+       __cxa_atexit@plt /usr/lib/x86_64-linux-gnu/libstdc++.so.6       7f2aeba11ea0            5            7
+_ZSt15future_categoryv@plt /usr/lib/x86_64-linux-gnu/libstdc++.so.6       7f2aeba11df0            1            3
+__cxa_guard_release@plt /usr/lib/x86_64-linux-gnu/libstdc++.so.6       7f2aeba11c30            1            3
+             malloc@plt /usr/lib/x86_64-linux-gnu/libstdc++.so.6       7f2aeba11b30            1            3
+_ZNSt3_V214error_categoryD2Ev@plt /usr/lib/x86_64-linux-gnu/libstdc++.so.6       7f2aeba11a90            3            5
+                   .plt /usr/lib/x86_64-linux-gnu/libstdc++.so.6       7f2aeba10fe0            8           16
+                  _init /usr/lib/x86_64-linux-gnu/libstdc++.so.6       7f2aeba10fc0            1            6
+                  _fini /usr/lib/x86_64-linux-gnu/libicudata.so.60       7f2aebd115ac            1            3
+                  .text /usr/lib/x86_64-linux-gnu/libicudata.so.60       7f2aebd114d0            1           37
+               .plt.got /usr/lib/x86_64-linux-gnu/libicudata.so.60       7f2aebd114c0            1            1
+                  _init /usr/lib/x86_64-linux-gnu/libicudata.so.60       7f2aebd11490            1            6
+                  _fini /usr/lib/x86_64-linux-gnu/libXdmcp.so.6       7f2aed8bca18            1            3
+                  .text /usr/lib/x86_64-linux-gnu/libXdmcp.so.6       7f2aed8bb110            1           38
+               .plt.got /usr/lib/x86_64-linux-gnu/libXdmcp.so.6       7f2aed8bb100            1            1
+                  _init /usr/lib/x86_64-linux-gnu/libXdmcp.so.6       7f2aed8bb028            1            6
+                  _fini /usr/lib/x86_64-linux-gnu/libXau.so.6       7f2aedac1acc            1            3
+                  .text /usr/lib/x86_64-linux-gnu/libXau.so.6       7f2aedac0e50            1           37
+     __cxa_finalize@plt /usr/lib/x86_64-linux-gnu/libXau.so.6       7f2aedac0e40            1            3
+                   .plt /usr/lib/x86_64-linux-gnu/libXau.so.6       7f2aedac0c90            1            2
+                  _init /usr/lib/x86_64-linux-gnu/libXau.so.6       7f2aedac0c68            1            6
+                  .fini /lib/x86_64-linux-gnu/liblzma.so.5       7f2aedcdd3e4            1            3
+                  .text /lib/x86_64-linux-gnu/liblzma.so.5       7f2aedcc68e0            1           38
+               .plt.got /lib/x86_64-linux-gnu/liblzma.so.5       7f2aedcc68d0            1            1
+                  _init /lib/x86_64-linux-gnu/liblzma.so.5       7f2aedcc66e8            1            6
+                  _fini /usr/lib/x86_64-linux-gnu/libicuuc.so.60       7f2aee0161dc            1            3
+               .plt.got /usr/lib/x86_64-linux-gnu/libicuuc.so.60       7f2aedf4aaf0            1            1
+                  _init /usr/lib/x86_64-linux-gnu/libicuuc.so.60       7f2aedf4a688            1            6
+                  .fini /lib/x86_64-linux-gnu/libdl.so.2       7f2aee2a2be0            1            3
+                  .text /lib/x86_64-linux-gnu/libdl.so.2       7f2aee2a1e50            1           39
+                  _init /lib/x86_64-linux-gnu/libdl.so.2       7f2aee2a1d20            1            6
+                  _fini /usr/lib/x86_64-linux-gnu/libxcb.so.1       7f2aee4c2568            1            3
+                  .text /usr/lib/x86_64-linux-gnu/libxcb.so.1       7f2aee4b0150            1           37
+               .plt.got /usr/lib/x86_64-linux-gnu/libxcb.so.1       7f2aee4b0140            1            1
+                  _init /usr/lib/x86_64-linux-gnu/libxcb.so.1       7f2aee4afe20            1            6
+               _dl_addr /lib/x86_64-linux-gnu/libc.so.6       7f2aee832fb0            1        59300
+        __vsnprintf_chk /lib/x86_64-linux-gnu/libc.so.6       7f2aee7ff0c0           21         1218
+           __strcpy_chk /lib/x86_64-linux-gnu/libc.so.6       7f2aee7fec70            1           17
+          clock_gettime /lib/x86_64-linux-gnu/libc.so.6       7f2aee7fde80            4           68
+      __register_atfork /lib/x86_64-linux-gnu/libc.so.6       7f2aee7fd820            1           51
+    __libc_pthread_init /lib/x86_64-linux-gnu/libc.so.6       7f2aee7fd7c0            1          386
+   __libc_alloca_cutoff /lib/x86_64-linux-gnu/libc.so.6       7f2aee7fd0b0           17          170
+                sysinfo /lib/x86_64-linux-gnu/libc.so.6       7f2aee7ef510            1            5
+         get_phys_pages /lib/x86_64-linux-gnu/libc.so.6       7f2aee7ec510            1           75
+        get_nprocs_conf /lib/x86_64-linux-gnu/libc.so.6       7f2aee7ec430            1         1407
+               __munmap /lib/x86_64-linux-gnu/libc.so.6       7f2aee7e8ab0            2           10
+                 __mmap /lib/x86_64-linux-gnu/libc.so.6       7f2aee7e89d0            3          105
+            getpagesize /lib/x86_64-linux-gnu/libc.so.6       7f2aee7e3da0           15           75
+                 __sbrk /lib/x86_64-linux-gnu/libc.so.6       7f2aee7e3520            5          132
+                    brk /lib/x86_64-linux-gnu/libc.so.6       7f2aee7e34b0            5           60
+            __getrlimit /lib/x86_64-linux-gnu/libc.so.6       7f2aee7e2f90            3           27
+       __close_nocancel /lib/x86_64-linux-gnu/libc.so.6       7f2aee7dd940            5           25
+                 access /lib/x86_64-linux-gnu/libc.so.6       7f2aee7dd240            4           32
+                __lseek /lib/x86_64-linux-gnu/libc.so.6       7f2aee7dd210            3           15
+                __write /lib/x86_64-linux-gnu/libc.so.6       7f2aee7dd140            1            9
+                 __read /lib/x86_64-linux-gnu/libc.so.6       7f2aee7dd070           10           90
+        __open_nocancel /lib/x86_64-linux-gnu/libc.so.6       7f2aee7dcd70            2           48
+               __open64 /lib/x86_64-linux-gnu/libc.so.6       7f2aee7dcc40            7          218
+             __fxstat64 /lib/x86_64-linux-gnu/libc.so.6       7f2aee7dc7b0           12          120
+                sysconf /lib/x86_64-linux-gnu/libc.so.6       7f2aee7b39f0           19          718
+                  _Exit /lib/x86_64-linux-gnu/libc.so.6       7f2aee7b1dd0            1            8
+                  times /lib/x86_64-linux-gnu/libc.so.6       7f2aee7b1570            4           40
+                readdir /lib/x86_64-linux-gnu/libc.so.6       7f2aee7acbe0           66         2651
+               closedir /lib/x86_64-linux-gnu/libc.so.6       7f2aee7acbb0            1            8
+                opendir /lib/x86_64-linux-gnu/libc.so.6       7f2aee7ac920            1           53
+                 memmem /lib/x86_64-linux-gnu/libc.so.6       7f2aee76d400           12          384
+               __strdup /lib/x86_64-linux-gnu/libc.so.6       7f2aee76a9a0           13          221
+     __default_morecore /lib/x86_64-linux-gnu/libc.so.6       7f2aee768190            5           35
+         posix_memalign /lib/x86_64-linux-gnu/libc.so.6       7f2aee767d70          182        11259
+                  cfree /lib/x86_64-linux-gnu/libc.so.6       7f2aee764950          308        36319
+          __libc_malloc /lib/x86_64-linux-gnu/libc.so.6       7f2aee764070          152         6921
+     _IO_unsave_markers /lib/x86_64-linux-gnu/libc.so.6       7f2aee75cbe0            6           36
+     _IO_default_finish /lib/x86_64-linux-gnu/libc.so.6       7f2aee75bc60            3           75
+              _IO_sgetn /lib/x86_64-linux-gnu/libc.so.6       7f2aee75b560           14          196
+     _IO_default_xsputn /lib/x86_64-linux-gnu/libc.so.6       7f2aee75b420           76         2051
+         _IO_doallocbuf /lib/x86_64-linux-gnu/libc.so.6       7f2aee75b300            1            3
+               _IO_setb /lib/x86_64-linux-gnu/libc.so.6       7f2aee75b2a0           27          519
+            __underflow /lib/x86_64-linux-gnu/libc.so.6       7f2aee75af00            7          257
+ _IO_switch_to_get_mode /lib/x86_64-linux-gnu/libc.so.6       7f2aee75adb0            7          168
+            _IO_link_in /lib/x86_64-linux-gnu/libc.so.6       7f2aee75a8b0           10          713
+            _IO_un_link /lib/x86_64-linux-gnu/libc.so.6       7f2aee75a5c0           10          766
+      _IO_file_overflow /lib/x86_64-linux-gnu/libc.so.6       7f2aee75a300            1           49
+     _IO_file_underflow /lib/x86_64-linux-gnu/libc.so.6       7f2aee75a020            7          357
+           _IO_do_write /lib/x86_64-linux-gnu/libc.so.6       7f2aee759ea0            2           67
+         _IO_file_fopen /lib/x86_64-linux-gnu/libc.so.6       7f2aee7594b0            7          491
+        _IO_file_finish /lib/x86_64-linux-gnu/libc.so.6       7f2aee759330            3           36
+      _IO_file_close_it /lib/x86_64-linux-gnu/libc.so.6       7f2aee759190            3          171
+        _IO_file_xsputn /lib/x86_64-linux-gnu/libc.so.6       7f2aee758930           18          864
+          _IO_file_read /lib/x86_64-linux-gnu/libc.so.6       7f2aee758910           10           50
+         _IO_file_write /lib/x86_64-linux-gnu/libc.so.6       7f2aee758190            1           36
+          _IO_file_stat /lib/x86_64-linux-gnu/libc.so.6       7f2aee758180            3           12
+       _IO_file_seekoff /lib/x86_64-linux-gnu/libc.so.6       7f2aee757b90            4          257
+          _IO_file_seek /lib/x86_64-linux-gnu/libc.so.6       7f2aee757910            3            6
+         _IO_file_close /lib/x86_64-linux-gnu/libc.so.6       7f2aee757840            3            6
+          _IO_file_sync /lib/x86_64-linux-gnu/libc.so.6       7f2aee7576d0            2           34
+               ftello64 /lib/x86_64-linux-gnu/libc.so.6       7f2aee755e90            1           43
+               fseeko64 /lib/x86_64-linux-gnu/libc.so.6       7f2aee755d60            3          117
+        fileno_unlocked /lib/x86_64-linux-gnu/libc.so.6       7f2aee7547b0            7           42
+                 ferror /lib/x86_64-linux-gnu/libc.so.6       7f2aee7546c0            3           27
+            _IO_setvbuf /lib/x86_64-linux-gnu/libc.so.6       7f2aee74e2f0            3          216
+                 fwrite /lib/x86_64-linux-gnu/libc.so.6       7f2aee74c8a0           18         1331
+                  fread /lib/x86_64-linux-gnu/libc.so.6       7f2aee74c380           14          756
+                fopen64 /lib/x86_64-linux-gnu/libc.so.6       7f2aee74be30            7          303
+             _IO_fflush /lib/x86_64-linux-gnu/libc.so.6       7f2aee74b7e0            2          100
+                 fclose /lib/x86_64-linux-gnu/libc.so.6       7f2aee74b250            3          225
+    _IO_file_doallocate /lib/x86_64-linux-gnu/libc.so.6       7f2aee74b100            3          153
+            __printf_fp /lib/x86_64-linux-gnu/libc.so.6       7f2aee72e760            6           36
+               vfprintf /lib/x86_64-linux-gnu/libc.so.6       7f2aee728390           21         8190
+                 strtod /lib/x86_64-linux-gnu/libc.so.6       7f2aee712ff0            8           32
+                strtouq /lib/x86_64-linux-gnu/libc.so.6       7f2aee712140           50          200
+       __call_tls_dtors /lib/x86_64-linux-gnu/libc.so.6       7f2aee710870            1           11
+         __cxa_finalize /lib/x86_64-linux-gnu/libc.so.6       7f2aee710520           22         2139
+           __cxa_atexit /lib/x86_64-linux-gnu/libc.so.6       7f2aee710430            6          216
+                   exit /lib/x86_64-linux-gnu/libc.so.6       7f2aee710120            1            5
+        __secure_getenv /lib/x86_64-linux-gnu/libc.so.6       7f2aee70feb0            1            5
+                 getenv /lib/x86_64-linux-gnu/libc.so.6       7f2aee70f6e0           76        14194
+            sigemptyset /lib/x86_64-linux-gnu/libc.so.6       7f2aee70c830           10          270
+                _setjmp /lib/x86_64-linux-gnu/libc.so.6       7f2aee70bc10            5           10
+            __sigsetjmp /lib/x86_64-linux-gnu/libc.so.6       7f2aee70bb70            5          135
+           __ctype_init /lib/x86_64-linux-gnu/libc.so.6       7f2aee6fd8f0            1           16
+    __ctype_toupper_loc /lib/x86_64-linux-gnu/libc.so.6       7f2aee6fd8b0           15           45
+          __ctype_b_loc /lib/x86_64-linux-gnu/libc.so.6       7f2aee6fd890           35          105
+              setlocale /lib/x86_64-linux-gnu/libc.so.6       7f2aee6fa040            2          885
+      __libc_start_main /lib/x86_64-linux-gnu/libc.so.6       7f2aee6eeab0            1           55
+                  _init /lib/x86_64-linux-gnu/libc.so.6       7f2aee6ee920            1           99
+               .plt.got /lib/x86_64-linux-gnu/libc.so.6       7f2aee6ee2c0           39           55
+                   @plt /lib/x86_64-linux-gnu/libc.so.6       7f2aee6ee2b0           65           65
+                   @plt /lib/x86_64-linux-gnu/libc.so.6       7f2aee6ee270            1            1
+                   @plt /lib/x86_64-linux-gnu/libc.so.6       7f2aee6ee230           31           31
+                   @plt /lib/x86_64-linux-gnu/libc.so.6       7f2aee6ee210           31           31
+                   @plt /lib/x86_64-linux-gnu/libc.so.6       7f2aee6ee200           65           65
+_dl_find_dso_for_object@plt /lib/x86_64-linux-gnu/libc.so.6       7f2aee6ee1a0            1            3
+                   @plt /lib/x86_64-linux-gnu/libc.so.6       7f2aee6ee160           39           39
+                   @plt /lib/x86_64-linux-gnu/libc.so.6       7f2aee6ee110            2            2
+                   @plt /lib/x86_64-linux-gnu/libc.so.6       7f2aee6ee100          207          207
+  __tunable_get_val@plt /lib/x86_64-linux-gnu/libc.so.6       7f2aee6ee0f0           11           13
+                   @plt /lib/x86_64-linux-gnu/libc.so.6       7f2aee6ee0c0           24           24
+                   @plt /lib/x86_64-linux-gnu/libc.so.6       7f2aee6ee050           24           24
+                   @plt /lib/x86_64-linux-gnu/libc.so.6       7f2aee6ee040           51           51
+                   @plt /lib/x86_64-linux-gnu/libc.so.6       7f2aee6ee000           15           15
+                   .plt /lib/x86_64-linux-gnu/libc.so.6       7f2aee6edfd0            2            4
+                  .fini /usr/lib/x86_64-linux-gnu/libgomp.so.1       7f2aeeae3900            1            3
+      omp_get_num_procs /usr/lib/x86_64-linux-gnu/libgomp.so.1       7f2aeead6c80            1            1
+     omp_get_thread_num /usr/lib/x86_64-linux-gnu/libgomp.so.1       7f2aeeacbff0         1795         5385
+    omp_get_max_threads /usr/lib/x86_64-linux-gnu/libgomp.so.1       7f2aeeac80d0            4           32
+    omp_set_num_threads /usr/lib/x86_64-linux-gnu/libgomp.so.1       7f2aeeac7ef0            2           26
+               .plt.got /usr/lib/x86_64-linux-gnu/libgomp.so.1       7f2aeeac53c0            1            1
+ pthread_key_delete@plt /usr/lib/x86_64-linux-gnu/libgomp.so.1       7f2aeeac52e0            1            3
+            sysconf@plt /usr/lib/x86_64-linux-gnu/libgomp.so.1       7f2aeeac5290            1            3
+       pthread_self@plt /usr/lib/x86_64-linux-gnu/libgomp.so.1       7f2aeeac5240            2            4
+ pthread_key_create@plt /usr/lib/x86_64-linux-gnu/libgomp.so.1       7f2aeeac5210            2            4
+             malloc@plt /usr/lib/x86_64-linux-gnu/libgomp.so.1       7f2aeeac5140            2            4
+pthread_getaffinity_np@plt /usr/lib/x86_64-linux-gnu/libgomp.so.1       7f2aeeac5120            2            4
+pthread_attr_setdetachstate@plt /usr/lib/x86_64-linux-gnu/libgomp.so.1       7f2aeeac5100            1            3
+  pthread_attr_init@plt /usr/lib/x86_64-linux-gnu/libgomp.so.1       7f2aeeac5070            1            3
+pthread_setspecific@plt /usr/lib/x86_64-linux-gnu/libgomp.so.1       7f2aeeac4ff0            1            3
+   __sched_cpucount@plt /usr/lib/x86_64-linux-gnu/libgomp.so.1       7f2aeeac4f60            2            4
+      secure_getenv@plt /usr/lib/x86_64-linux-gnu/libgomp.so.1       7f2aeeac4ee0            1            3
+             getenv@plt /usr/lib/x86_64-linux-gnu/libgomp.so.1       7f2aeeac4e60           19           21
+                   .plt /usr/lib/x86_64-linux-gnu/libgomp.so.1       7f2aeeac4e50           12           24
+                  _init /usr/lib/x86_64-linux-gnu/libgomp.so.1       7f2aeeac4e30            1            6
+                  _fini /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeed01174            1            3
+       __errno_location /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeed010e0           13           39
+           elision_init /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeed00dd0            1           36
+ pthread_getaffinity_np /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecffb20            2           40
+            __sigaction /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecffa80           10           40
+       __libc_sigaction /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecff8a0           12          842
+_pthread_cleanup_pop_restore /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecfdce0           16          144
+_pthread_cleanup_push_defer /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecfdc80           16          192
+  __pthread_setspecific /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecfc0c0            2           67
+    pthread_getspecific /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecfc030            1           11
+     pthread_key_delete /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecfbff0            2           30
+     pthread_key_create /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecfbf90            3           75
+__pthread_rwlock_unlock /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecfa180            2           84
+__pthread_rwlock_wrlock /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecf97f0            2           97
+pthread_mutexattr_destroy /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecf91d0           35           70
+ pthread_mutexattr_init /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecf91c0           35          105
+ __pthread_mutex_unlock /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecf87a0         1077        18331
+     pthread_mutex_lock /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecf6fa0         1077        31245
+  pthread_mutex_destroy /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecf6940           35          350
+     pthread_mutex_init /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecf6780           35         1505
+pthread_attr_setdetachstate /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecf61c0            1            5
+      pthread_attr_init /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecf6160            1           13
+           pthread_self /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecf5d90            2            4
+__pthread_initialize_minimal /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecf2e80            1          156
+            frame_dummy /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecf2c80            1            4
+  __do_global_dtors_aux /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecf2c40            1           12
+     register_tm_clones /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecf2bf0            1           13
+   deregister_tm_clones /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecf2bb0            1            8
+               .plt.got /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecf2ba0            1            1
+_dl_get_tls_static_info@plt /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecf2b00            1            3
+  __tunable_get_val@plt /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecf2ae0            5            7
+__libc_pthread_init@plt /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecf2a00            1            3
+      __getpagesize@plt /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecf29d0            1            3
+             memset@plt /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecf2850            2            4
+        __getrlimit@plt /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecf26d0            1            3
+                   .plt /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecf2690            6           12
+                  _init /lib/x86_64-linux-gnu/libpthread.so.0       7f2aeecf2678            1            4
+                  .fini /lib/x86_64-linux-gnu/libm.so.6       7f2aeefd62f8            1            3
+               .plt.got /lib/x86_64-linux-gnu/libm.so.6       7f2aeef17a70            1            1
+                  _init /lib/x86_64-linux-gnu/libm.so.6       7f2aeef177f0            1            6
+                  .fini /lib/x86_64-linux-gnu/libz.so.1       7f2aef2bf640            1            3
+            zlibVersion /lib/x86_64-linux-gnu/libz.so.1       7f2aef2bb0c0            2            4
+             inflateEnd /lib/x86_64-linux-gnu/libz.so.1       7f2aef2b7300            1           33
+                inflate /lib/x86_64-linux-gnu/libz.so.1       7f2aef2b4ed0          367       332879
+          inflateInit2_ /lib/x86_64-linux-gnu/libz.so.1       7f2aef2b4d30            1           41
+          inflateReset2 /lib/x86_64-linux-gnu/libz.so.1       7f2aef2b4c50            1           50
+           inflateReset /lib/x86_64-linux-gnu/libz.so.1       7f2aef2b4bf0            1           19
+       inflateResetKeep /lib/x86_64-linux-gnu/libz.so.1       7f2aef2b4b10            1           40
+          deflateInit2_ /lib/x86_64-linux-gnu/libz.so.1       7f2aef2b1d20            1          144
+             deflateEnd /lib/x86_64-linux-gnu/libz.so.1       7f2aef2b1c00            1           68
+                deflate /lib/x86_64-linux-gnu/libz.so.1       7f2aef2b0050          101        10772
+           deflateReset /lib/x86_64-linux-gnu/libz.so.1       7f2aef2afae0            1           45
+       deflateResetKeep /lib/x86_64-linux-gnu/libz.so.1       7f2aef2af9b0            1           64
+                  crc32 /lib/x86_64-linux-gnu/libz.so.1       7f2aef2acf80           18           36
+                crc32_z /lib/x86_64-linux-gnu/libz.so.1       7f2aef2acb20           18        10607
+                adler32 /lib/x86_64-linux-gnu/libz.so.1       7f2aef2ac740          472          944
+              adler32_z /lib/x86_64-linux-gnu/libz.so.1       7f2aef2ac070          472      3526736
+                  .text /lib/x86_64-linux-gnu/libz.so.1       7f2aef2abf90            1           37
+               .plt.got /lib/x86_64-linux-gnu/libz.so.1       7f2aef2abf80            1            1
+             memcpy@plt /lib/x86_64-linux-gnu/libz.so.1       7f2aef2abf20          502          504
+             memset@plt /lib/x86_64-linux-gnu/libz.so.1       7f2aef2abee0            1            3
+                   .plt /lib/x86_64-linux-gnu/libz.so.1       7f2aef2abe60            2            4
+                  _init /lib/x86_64-linux-gnu/libz.so.1       7f2aef2abe40            1            6
+                  _fini /usr/lib/x86_64-linux-gnu/libxml2.so.2       7f2aef62b4b0            1            3
+                  _init /usr/lib/x86_64-linux-gnu/libxml2.so.2       7f2aef4f4240            1            6
+                  _fini /usr/lib/x86_64-linux-gnu/libX11.so.6       7f2aef927828            1            3
+               .plt.got /usr/lib/x86_64-linux-gnu/libX11.so.6       7f2aef8a07b0            1            1
+                  _init /usr/lib/x86_64-linux-gnu/libX11.so.6       7f2aef89ff68            1            6
+                  _fini /usr/lib/x86_64-linux-gnu/libXext.so.6       7f2aefbcd3a0            1            3
+                  .text /usr/lib/x86_64-linux-gnu/libXext.so.6       7f2aefbc3590            1           38
+     __cxa_finalize@plt /usr/lib/x86_64-linux-gnu/libXext.so.6       7f2aefbc3580            1            3
+                   .plt /usr/lib/x86_64-linux-gnu/libXext.so.6       7f2aefbc3290            1            2
+                  _init /usr/lib/x86_64-linux-gnu/libXext.so.6       7f2aefbc3268            1            6
+                  .fini /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdf82b8            1            3
+    png_write_chunk_end /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdf54b0            5          230
+   png_write_chunk_data /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdf53e0            5           85
+          png_write_sig /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdf5340            1           24
+       png_save_uint_16 /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdf5330            3           12
+       png_save_uint_32 /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdf5270           19          190
+png_set_compression_mem_level /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdf3a80            1            4
+png_set_compression_level /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdf35a0            1            4
+         png_set_filter /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdf3360            1           24
+png_destroy_write_struct /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdf3180            1           44
+          png_write_row /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdf2800          100         6707
+png_create_write_struct_2 /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdf2740            1           28
+          png_write_end /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdf24f0            1           34
+         png_write_info /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdf2120            1           60
+png_write_info_before_PLTE /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdf1f40            1           56
+       png_set_write_fn /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdf1680            2           28
+png_set_interlace_handling /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdf0df0            2           12
+        png_set_packing /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdf0d90            1            5
+png_set_check_for_invalid_index /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdf0b90            1            6
+  png_set_benign_errors /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdf0b70            2           16
+    png_set_user_limits /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdf0b30            1            5
+png_set_compression_buffer_size /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdf0a60            1           28
+png_set_read_user_chunk_fn /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdf09e0            1            5
+png_set_keep_unknown_chunks /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdf0750            3          480
+           png_set_oFFs /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdef330            1            9
+           png_set_IHDR /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdef230            2          114
+           png_set_bKGD /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdeebd0            1           14
+        png_get_uint_31 /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefde9960            5           65
+     png_set_crc_action /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefde4060            1           21
+        png_set_read_fn /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefde3740            2           28
+png_destroy_read_struct /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefde2cb0            1           68
+           png_read_end /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefde2770            1           44
+           png_read_row /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefde0a20          365        31391
+   png_read_update_info /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefde09a0            1           16
+          png_read_info /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefde0470            1           56
+png_create_read_struct_2 /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefde0400            1           18
+         png_set_mem_fn /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefddcfb0            2           12
+               png_free /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefddcee0           32          226
+        png_malloc_warn /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefddce70            9           99
+             png_calloc /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefddce00            1           14
+             png_malloc /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefddcdd0            9           81
+           png_get_tRNS /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefddcaf0            1            8
+           png_get_text /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefddca80            1           12
+           png_get_IHDR /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefddc6a0            1           43
+           png_get_sRGB /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefddc520            2           16
+           png_get_gAMA /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefddc4e0            2           16
+           png_get_bKGD /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefddc0a0            1            8
+       png_get_rowbytes /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefddbb50            1            6
+          png_get_valid /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefddbb30           11           77
+       png_set_error_fn /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefddb910            2           12
+     png_set_longjmp_fn /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefddb840            2           42
+  png_handle_as_unknown /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdd79d0            2          112
+     png_get_libpng_ver /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdd7960            1            1
+     png_get_header_ver /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdd7950            2            4
+        png_save_int_32 /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdd76f0            2            2
+         png_get_io_ptr /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdd76c0           25          100
+png_destroy_info_struct /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdd7630            3          225
+          png_free_data /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdd7030            3          216
+ png_create_info_struct /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdd6f20            3          192
+      png_set_sig_bytes /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdd6ab0            1            8
+                  .text /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdd64e0            1           86
+      inflateInit2_@plt /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdd6470            1            1
+         deflateEnd@plt /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdd6450            1            1
+         inflateEnd@plt /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdd6410            1            1
+             memcpy@plt /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdd6400          831          831
+            _setjmp@plt /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdd63e0            2            2
+      deflateInit2_@plt /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdd63b0            1            1
+             memset@plt /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdd6380            3            3
+            deflate@plt /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdd6370          101          101
+              crc32@plt /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdd6300           17           17
+            inflate@plt /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdd62b0          367          367
+                  _init /usr/lib/x86_64-linux-gnu/libpng16.so.16       7f2aefdd6248            1            6
+                  _fini /usr/lib/x86_64-linux-gnu/libjpeg.so.8       7f2af38067b0            1            3
+                  .text /usr/lib/x86_64-linux-gnu/libjpeg.so.8       7f2af37cce10            1           37
+               .plt.got /usr/lib/x86_64-linux-gnu/libjpeg.so.8       7f2af37cce00            1            1
+                  _init /usr/lib/x86_64-linux-gnu/libjpeg.so.8       7f2af37cc900            1            6
+                  .fini /usr/lib/x86_64-linux-gnu/libfreetype.so.6       7f2af3b092e4            1            3
+                  _init /usr/lib/x86_64-linux-gnu/libfreetype.so.6       7f2af3a90410            1            6
+          clock_gettime          [vdso]       7ffea21eda30            4          136
+    _dl_catch_exception /lib64/ld-linux-x86-64.so.2       7f2b0831ec10           66         2046
+                   free /lib64/ld-linux-x86-64.so.2       7f2b0831e620            2            8
+                 calloc /lib64/ld-linux-x86-64.so.2       7f2b0831e5e0           54          432
+                 malloc /lib64/ld-linux-x86-64.so.2       7f2b0831e4b0          126         2449
+      __tunable_get_val /lib64/ld-linux-x86-64.so.2       7f2b0831c250           43          780
+_dl_find_dso_for_object /lib64/ld-linux-x86-64.so.2       7f2b08317640            1           92
+  _dl_allocate_tls_init /lib64/ld-linux-x86-64.so.2       7f2b08316160            1          202
+_dl_get_tls_static_info /lib64/ld-linux-x86-64.so.2       7f2b08316070            1            5
+        _dl_debug_state /lib64/ld-linux-x86-64.so.2       7f2b08313da0            2            2
+                  .text /lib64/ld-linux-x86-64.so.2       7f2b08303f10            1        55809
+             calloc@plt /lib64/ld-linux-x86-64.so.2       7f2b08303ec0           54           54
+             malloc@plt /lib64/ld-linux-x86-64.so.2       7f2b08303ea0          126          126
+_dl_catch_exception@plt /lib64/ld-linux-x86-64.so.2       7f2b08303e90           66           66
+                  _fini /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb42194            1            3
+        __libc_csu_init /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb42120            1           34
+   ImportImagePixelArea /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb412e0          365         7665
+    ImportViewPixelArea /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb3dcf0          365        36135
+  ImportRGBAQuantumType /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb39c00          365      3044465
+   ExportImagePixelArea /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb34b80          100         2100
+    ExportViewPixelArea /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb30fa0          100        10200
+  ExportRGBAQuantumType /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb2d650          100       394300
+    TransformColorspace /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb237f0            1           19
+     QueryColorDatabase /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb1f730           30        15210
+    InitializeColorInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb1f6e0            1            8
+       DestroyColorInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb1f080            1            8
+    MagickConfirmAccess /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb1d420            3           21
+       DisassociateBlob /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb19910            1           30
+              WriteBlob /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb18b90           18          882
+            DestroyBlob /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb18920            3          183
+               OpenBlob /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb17c20            3         1359
+              CloseBlob /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb171c0            3          252
+             DetachBlob /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb16870            6          156
+               SeekBlob /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb16530            1           35
+               TellBlob /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb16430            1           21
+        SetBlobClosable /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb16360            2           24
+               ReadBlob /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb14c50           12          576
+       GetConfigureBlob /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb144c0            2          288
+       GetBlobTemporary /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb14400            2           34
+          GetBlobStatus /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb142a0            1           10
+            GetBlobSize /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb14160            7          238
+          GetBlobIsOpen /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb140d0            4           60
+          CloneBlobInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb14000            3           54
+            GetBlobInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb13f60            3          126
+         BlobIsSeekable /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb13810            2           30
+       AddConfigurePath /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb13750            4          140
+   CloneImageAttributes /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb12590            1           86
+      GetImageAttribute /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb123e0            2           46
+      SetImageAttribute /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb0f4a0            3          250
+ DestroyImageAttributes /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb0f400            3           78
+DestroyImageAttribute.part.4 /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb0ecd0            5           75
+GetImageCharacteristics /home/softmon/benchmarks/gm/src/bin/bin/gm       56113eb09820            1           62
+     UnregisterPNGImage /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea67460            1           20
+       RegisterPNGImage /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea66fd0            1          209
+           ReadPNGImage /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea61df0            1          116
+        ReadOnePNGImage /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea5edf0            1        19528
+          WritePNGImage /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea5c6a0            1          119
+       WriteOnePNGImage /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea58a60            1         7081
+MngInfoFreeStruct.part.7 /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea57f80            2         3096
+      WriteBlobMSBULong /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea542b0            2           54
+   MngInfoDiscardObject /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea54160          510         6120
+           png_get_data /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea53ce0           10          290
+           png_put_data /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea53b60           15          285
+            png_IM_free /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea53b50           22           44
+          png_IM_malloc /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea53ab0           22           88
+MagickXDestroyX11Resources /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea463e0            1            4
+            SetGeometry /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea0f710            2           28
+          GetClientPath /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea0f6d0            1            2
+          SetClientName /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea0f510            2           48
+          GetClientName /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea0f4f0            2           10
+      GetClientFilename /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea0f4b0            1            2
+        ExpandFilenames /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea0e890            1          477
+       GetPathComponent /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea0e3a0            7          168
+GetPathComponent.part.11 /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea0dfa0            7         2016
+          MagickStrlCpy /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea0d820           94        14764
+          MagickStrlCat /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea0d790            6          348
+            LocaleUpper /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea0cb90            5          250
+         LocaleNCompare /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea0cb70            4           20
+          LocaleCompare /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea0cad0          245         1225
+                 IsGlob /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea0ca40            5          751
+             IsGeometry /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea0c9e0            1           19
+  IsAccessibleNoLogging /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea0c940            4           20
+      GetMagickGeometry /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea0b720            1           65
+            GetGeometry /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea0adc0            2         1025
+             FormatSize /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea0ac60            6          206
+           FormatString /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea0ab90           21          615
+         AllocateString /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea09e00            3           96
+          AcquireString /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea09d90           23          598
+  LocaleNCompare.part.8 /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea09d20           49          720
+   LocaleCompare.part.6 /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea09c90          245         8624
+IsAccessibleNoLogging.part.5 /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea09c70            4           32
+           MagickStrToD /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea09a00            8          860
+   MagickGetMMUPageSize /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea09920            1           11
+     InitializeTypeInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea096f0            1            8
+        DestroyTypeInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea08ec0            1           12
+   MagickTsdGetSpecific /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea084e0            1            1
+   MagickTsdSetSpecific /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea084c0            1            7
+     MagickTsdKeyDelete /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea084a0            1            7
+    MagickTsdKeyCreate2 /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea08460            1            7
+         TransformImage /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea081d0            1           68
+              CropImage /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea066d0            1         5111
+           GetTimerInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea05ad0            4          140
+               UserTime /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea05820            4           88
+  DestroyTemporaryFiles /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea04e60            1            5
+    PurgeTemporaryFiles /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea04da0            1           11
+InitializeTemporaryFiles /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea04c10            1            8
+             OpenModule /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea03b70            1         1409
+InitializeMagickModules /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea03b60            1            1
+   DestroyMagickModules /home/softmon/benchmarks/gm/src/bin/bin/gm       56113ea03b20            1          559
+    UnlockSemaphoreInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9fe8c0         1038        12456
+      LockSemaphoreInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9fe770         1038        12456
+    InitializeSemaphore /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9fe760            1            1
+   DestroySemaphoreInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9fe640           35         1365
+       DestroySemaphore /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9fe630            1            1
+  AllocateSemaphoreInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9fe530           35         1575
+ LiberateMagickResource /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9fbd30            2           88
+InitializeMagickResources /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9fb820            1          224
+ GetMagickResourceLimit /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9fb7d0           20          380
+ DestroyMagickResources /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9fb710            1           18
+  AcquireMagickResource /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9fb470           11          533
+SetMagickResourceLimit.part.0 /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9fb340            4          235
+          CloneDrawInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9e8340            2           40
+            GetDrawInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9e8180            2          262
+        DestroyDrawInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9e7aa0            2          258
+DestroyMagickRandomGenerator /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9e4340            1           18
+InitializeMagickRandomGenerator /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9e42d0            1           14
+InitializeMagickRegistry /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9e4000            1            9
+  DestroyMagickRegistry /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9e3c60            1           14
+        GetQuantizeInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9e2950            2           20
+AllocateImageProfileIterator /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9dfb60            2           10
+      SyncImagePixelsEx /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9de1c0          100         1900
+        SyncImagePixels /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9de130          365         6935
+       SetImagePixelsEx /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9ddbf0          100         3100
+         SetImagePixels /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9ddb40          365        12045
+     SetCacheViewPixels /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9ddad0          465         6045
+          SetCacheNexus /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9dd6e0          465        19530
+            ModifyCache /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9dcba0          465        24196
+    SyncCacheViewPixels /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9dbbc0          465        16740
+  AllocateThreadViewSet /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9db8a0            3         1707
+          OpenCacheView /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9db7d0          144         5472
+   GetPixelCachePresent /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9db270            1           19
+   AccessMutableIndexes /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9dad10          100         1300
+ AccessImmutableIndexes /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9daca0          100         1300
+    GetCacheViewIndexes /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9dac40          565         5085
+      GetCacheViewImage /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9dabe0          465         4185
+       GetCacheViewArea /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9dab80          465         4650
+           GetCacheInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9daa70            3         1731
+     DestroyImagePixels /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9da9f0            3           42
+       DestroyCacheInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9da7d0            3          147
+              OpenCache /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9d9e00            2          296
+  CheckImagePixelLimits /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9d9c10            3          120
+     AcquireImagePixels /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9d97d0          200         6200
+AcquireCacheViewIndexes /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9d9770          100          900
+ AcquireCacheViewPixels /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9d9700          200         2600
+  AccessCacheViewPixels /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9d9630          465         4185
+ AccessDefaultCacheView /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9d9610          465         3720
+   DestroyThreadViewSet /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9d9600            3            9
+      AcquireCacheNexus /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9d8e80          200        19400
+DestroyThreadViewSet.part.12 /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9d8dd0            3         2067
+ CloseCacheView.part.11 /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9d8d60          144         1728
+               SetNexus /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9d7dc0          665        51870
+ DeinitializeCacheNexus /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9d7d50          144         2160
+ MagickMonitorFormatted /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9d0930          101         2727
+    MagickMonitorActive /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9d0920            1            4
+InitializeMagickMonitor /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9d0840            1            8
+   DestroyMagickMonitor /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9d0830            1            2
+      MagickFreeAligned /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9d0820          327          327
+             MagickFree /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9d0800          623         1869
+          MagickRealloc /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9d07b0            2            8
+    MagickMallocAligned /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9d0640          182         5278
+           MagickMalloc /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9d0620          108          324
+MagickMapDeallocateString /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9d0560            4            4
+    MagickMapCopyString /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9d0540            4           12
+   MagickMapIterateNext /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9cffa0            6          230
+MagickMapDereferenceIterator /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9cfe20            4           56
+MagickMapDeallocateIterator /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9cfd90            2           40
+ MagickMapDeallocateMap /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9cfca0            2           80
+MagickMapAllocateIterator /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9cfc00            2           56
+   MagickMapAllocateMap /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9cfab0            2           62
+      MagickMapAddEntry /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9cf810            4          284
+ MagickMapDestroyObject /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9cf630            4           96
+     RegisterMagickInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9cf550            9          251
+   UnregisterMagickInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9cf460           18         1175
+          SetMagickInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9cf390            9          360
+       InitializeMagick /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9cec50            1           75
+InitializeMagickSignalHandlers /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9ceb90            1           32
+          GetMagickInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9ce990            6          154
+          DestroyMagick /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9ce790            1           53
+MagickGetFileSystemBlockSize /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9ce760            3            6
+       MagickCondSignal /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9ce650           10          230
+           MagickSignal /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9ce570           10          280
+GetMagickInfoEntryLocked /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9ce4a0            7          264
+      DestroyMagickInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9ce450            9          135
+    InitializeMagicInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9ce170            1            2
+    GetMagickFileFormat /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9ce080            1         1136
+       DestroyMagicInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9ce070            1            1
+  InitializeLogInfoPost /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9cdf70            1           29
+      InitializeLogInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9cddb0            1           66
+         LogMagickEvent /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9cdc70           45          900
+     LogMagickEventList /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9cd050           45         1305
+         IsEventLogging /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9cd030           19          114
+         DestroyLogInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9ccfa0            1           12
+   ReadLogConfigureFile /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9cc9e0            2           88
+ GetLocaleMessageFromID /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9cc900            2           18
+       GetLocaleMessage /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9cc8f0            2            2
+GetLocaleMessageFromTag /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9cc640            2          842
+ChopLocaleComponents.part.0 /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9cc5c0            4          552
+RemoveFirstImageFromList /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9cc030            4           68
+           NewImageList /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9cc000            3            6
+     GetImageListLength /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9cbc80            1           14
+       DestroyImageList /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9cb9a0            1           15
+      AppendImageToList /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9cb810            3           42
+           SetImageInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9ca150            4         1138
+         CloneImageInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9c8d50            8          970
+           GetImageInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9c8c40            8          368
+       GetImageGeometry /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9c8a80            1           50
+      GetImageException /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9c88d0            4           96
+       DestroyImageInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9c8490            8          400
+             CloneImage /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9c7b80            1         1108
+           DestroyImage /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9c79b0            3          183
+          AllocateImage /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9c7480            2         2002
+         IdentityAffine /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9c5b10            2           20
+   ThrowLoggedException /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9c0ed0            2          198
+GetLocaleExceptionMessage /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9c0a30            4           70
+       GetExceptionInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9c09c0           16          192
+   DestroyExceptionInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9c0900           16          400
+          CopyException /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9c0780            1           50
+DestroyMagickExceptionHandling /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9c0770            1            2
+InitializeMagickExceptionHandling /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9c0720            1            8
+GetLocaleExceptionMessage.part.2 /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9c0130            2           86
+ ColorspaceTypeToString /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9bd680            1            9
+      ClassTypeToString /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9bd650            1            4
+ InitializeDelegateInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9aec10            1            8
+    DestroyDelegateInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9ae5c0            1           12
+            WriteImages /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9abbb0            1           89
+             WriteImage /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9ab4d0            1          120
+              ReadImage /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9aa250            1          217
+   InitializeConstitute /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9aa200            1            8
+      DestroyConstitute /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9a93a0            1            2
+              GMCommand /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e99f440            1           22
+    ConvertImageCommand /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e98ce20            1          309
+          MogrifyImages /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e987490            2          299
+           MogrifyImage /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e97f870            2          294
+MagickInitializeCommandInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e97f820            1            8
+MagickDestroyCommandInfo /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e97f810            1            2
+        GMCommandSingle /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e97f0d0            1          164
+          MagickCommand /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e97df50            1          158
+LiberateArgumentList.part.7 /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e97a900            1           45
+            frame_dummy /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e976530            1            4
+  __do_global_dtors_aux /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9764f0            1           12
+     register_tm_clones /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9764a0            1           13
+   deregister_tm_clones /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e976460            1            8
+                 _start /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e976430            1           11
+                   main /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e976420            1            1
+   png_set_write_fn@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973f60            1            1
+             fwrite@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973f50           18           18
+ png_get_libpng_ver@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973eb0            1            1
+             ferror@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973ea0            3            3
+pthread_setspecific@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973dd0            1            1
+       png_get_text@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973cc0            1            1
+png_create_info_struct@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973cb0            3            3
+png_set_interlace_handling@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973c50            2            2
+omp_get_max_threads@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973c10            4            4
+       png_get_bKGD@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973be0            1            1
+             access@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973bb0            4            4
+       png_set_IHDR@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973b60            1            1
+              times@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973b00            4            4
+ omp_get_thread_num@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973ad0         1795         1795
+      png_get_valid@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973a90           11           11
+png_set_user_limits@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9739d0            1            1
+       png_set_oFFs@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973990            1            1
+       png_read_row@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973910          365          365
+       png_set_bKGD@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9738e0            1            1
+png_create_write_struct_2@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9738c0            1            1
+              fread@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973890           14           14
+ pthread_mutex_init@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973880           35           35
+ pthread_mutex_lock@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973840         1075         1075
+ png_get_header_ver@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973810            1            1
+  omp_get_num_procs@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9737f0            1            1
+            _setjmp@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9737e0            2            2
+       png_get_IHDR@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9737c0            1            1
+png_set_keep_unknown_chunks@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973790            3            3
+          getrlimit@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973750            2            2
+pthread_getspecific@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973720            1            1
+png_set_compression_level@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9736e0            1            1
+pthread_mutexattr_init@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9736b0           35           35
+ pthread_key_delete@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973660            1            1
+png_create_read_struct_2@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973640            1            1
+png_set_check_for_invalid_index@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973630            1            1
+          sigaction@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973500           10           10
+        sigemptyset@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9734f0           10           10
+             ftello@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973490            1            1
+             getenv@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973460           18           18
+       png_get_tRNS@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973440            1            1
+              fopen@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973410            7            7
+             fflush@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973400            2            2
+pthread_mutex_destroy@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9733f0           35           35
+omp_set_num_threads@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973330            2            2
+            strrchr@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9732f0            5            5
+      __ctype_b_loc@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973290           35           35
+ png_set_longjmp_fn@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973270            2            2
+           __fxstat@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9731f0            7            7
+             fileno@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9731a0            7            7
+      png_write_end@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973160            1            1
+ png_set_crc_action@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973120            1            1
+             fclose@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9730e0            3            3
+png_set_compression_mem_level@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9730c0            1            1
+     png_get_io_ptr@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973070           25           25
+             strcpy@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973040            2            2
+      clock_gettime@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e973010            4            4
+       png_read_end@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e972fd0            1            1
+          setlocale@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e972fc0            2            2
+       __strcpy_chk@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e972f60            1            1
+             memcpy@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e972eb0          126          126
+    __vsnprintf_chk@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e972e90           21           21
+      png_read_info@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e972e30            1            1
+             strtod@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e972d90            8            8
+png_destroy_write_struct@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e972d40            1            1
+pthread_mutex_unlock@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e972d10         1075         1075
+              crc32@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e972c50            1            1
+            sysconf@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e972b60            6            6
+     png_set_filter@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e972b30            1            1
+png_set_benign_errors@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e972aa0            2            2
+ pthread_key_create@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e972a80            1            1
+     png_write_info@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e972a20            1            1
+             fseeko@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e972a10            3            3
+png_destroy_read_struct@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9729d0            1            1
+    png_set_packing@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e972990            1            1
+             memset@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e972910           10           10
+    png_set_read_fn@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9728c0            1            1
+       png_get_gAMA@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e972880            2            2
+      png_write_row@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e972870          100          100
+     posix_memalign@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e972840          182          182
+             memcmp@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e972700           18           18
+pthread_mutexattr_destroy@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9726f0           35           35
+             strlen@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9726d0           74           74
+        zlibVersion@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9724f0            2            2
+  png_set_sig_bytes@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e972460            1            1
+png_set_read_user_chunk_fn@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9723f0            1            1
+   png_get_rowbytes@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e972360            1            1
+               ceil@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e972340            4            4
+__ctype_toupper_loc@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9722e0           15           15
+png_set_compression_buffer_size@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9722c0            1            1
+   __errno_location@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e972210           13           13
+png_read_update_info@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e972200            1            1
+            setvbuf@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9721d0            3            3
+       png_get_sRGB@plt /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e9721a0            2            2
+                  _init /home/softmon/benchmarks/gm/src/bin/bin/gm       56113e972168            1            6

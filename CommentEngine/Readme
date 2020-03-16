@@ -1,0 +1,9 @@
+bm = Benchmark
+
+Run: 
+1) cscope.sh <src-path> [default: c, c++]
+2) python createGraph.py <$bm.func> <src-path>
+
+Output: 
+$bm.comments: List of functions along with their comments
+

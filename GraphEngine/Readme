@@ -1,0 +1,12 @@
+
+bm = Benchmark
+
+Run: python createGraph.py <$bm-func.out> <src-path>
+
+Output:
+
+1) $bm.nodes: Details of the nodes of the rm-tree [ALL]
+2) $bm.fn   : Details of the nodes of the rm-tree [Filtered] 
+3) $bm.graph: The tree in graphviz format
+4) $bm.svg  : Graphviz rendering of the tree
+5) Different statistics of the graph reduction steps.

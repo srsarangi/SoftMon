@@ -1,0 +1,16 @@
+N:0 P:-1 C:8071649 S:0 T:1 D:/home/ H:
+N:399 P:0 C:7937184 S:23 T:1 D:/home/softmon/benchmarks/gm/src/bin/bin/gm#GMCommand H:/home/softmon/benchmarks/gm/src/bin/bin/gm#main
+N:401 P:399 C:7937121 S:164 T:1 D:/home/softmon/benchmarks/gm/src/bin/bin/gm#GMCommandSingle H:
+N:1224 P:401 C:7877536 S:161 T:1 D:/home/softmon/benchmarks/gm/src/bin/bin/gm#MagickCommand H:/home/softmon/benchmarks/gm/src/bin/bin/gm#MagickFree$/home/softmon/benchmarks/gm/src/bin/bin/gm#MagickFree#ret
+N:1255 P:1224 C:7875360 S:309 T:1 D:/home/softmon/benchmarks/gm/src/bin/bin/gm#ConvertImageCommand H:
+N:1522 P:1255 C:6461538 S:217 T:1 D:/home/softmon/benchmarks/gm/src/bin/bin/gm#ReadImage H:
+N:2019 P:1522 C:6429675 S:116 T:1 D:/home/softmon/benchmarks/gm/src/bin/bin/gm#ReadPNGImage H:
+N:2288 P:2019 C:6409415 S:19577 T:1 D:/home/softmon/benchmarks/gm/src/bin/bin/gm#ReadOnePNGImage H:/home/softmon/benchmarks/gm/src/bin/bin/gm#MagickMalloc$/lib/x86_64-linux-gnu/libc.so.6#__libc_malloc$/lib/x86_64-linux-gnu/libc.so.6#__libc_malloc#ret$/home/softmon/benchmarks/gm/src/bin/bin/gm#memset@plt
+N:2446 P:2288 C:3116588 S:31803 T:365 D:/usr/lib/x86_64-linux-gnu/libpng16.so.16#png_read_row H:/home/softmon/benchmarks/gm/src/bin/bin/gm#MagickMalloc$/lib/x86_64-linux-gnu/libc.so.6#__libc_malloc$/lib/x86_64-linux-gnu/libc.so.6#__libc_malloc#ret$/home/softmon/benchmarks/gm/src/bin/bin/gm#png_read_row@plt
+N:2456 P:2455 C:2750484 S:2750484 T:368 D:/lib/x86_64-linux-gnu/libz.so.1#adler32_z H:/lib/x86_64-linux-gnu/libz.so.1#adler32$/home/softmon/benchmarks/gm/src/bin/bin/gm#png_IM_malloc$/home/softmon/benchmarks/gm/src/bin/bin/gm#MagickMalloc$/lib/x86_64-linux-gnu/libc.so.6#__libc_malloc$/lib/x86_64-linux-gnu/libc.so.6#__libc_malloc#ret$/lib/x86_64-linux-gnu/libz.so.1#memcpy@plt$/lib/x86_64-linux-gnu/libz.so.1#.plt
+N:2506 P:2288 C:3094105 S:36135 T:365 D:/home/softmon/benchmarks/gm/src/bin/bin/gm#ImportViewPixelArea H:
+N:2511 P:2506 C:3044465 S:3044465 T:365 D:/home/softmon/benchmarks/gm/src/bin/bin/gm#ImportRGBAQuantumType H:
+N:15172 P:1255 C:1272966 S:89 T:1 D:/home/softmon/benchmarks/gm/src/bin/bin/gm#WriteImages H:
+N:15215 P:15172 C:1268833 S:120 T:1 D:/home/softmon/benchmarks/gm/src/bin/bin/gm#WriteImage H:
+N:15279 P:15215 C:1263814 S:119 T:1 D:/home/softmon/benchmarks/gm/src/bin/bin/gm#WritePNGImage H:/home/softmon/benchmarks/gm/src/bin/bin/gm#GetMagickInfo#ret
+N:15314 P:15279 C:1256047 S:7081 T:1 D:/home/softmon/benchmarks/gm/src/bin/bin/gm#WriteOnePNGImage H:

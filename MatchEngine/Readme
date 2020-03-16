@@ -1,0 +1,20 @@
+bm = Benchmark
+
+Translates the function name to human readble format
+
+python translate.py $bm.fn
+
+Output:
+$bm.fn1: all function names are translated to human readable format
+
+Match:
+
+Input: bm1=Benchmark1 bm2=Benchmark2
+
+python match.py $bm1.fn1 $bm2.fn1 <src-$bm1> <src-$bm2>
+
+Output:
+A sequence of matched functions with their instruction count. 
+The sequence is sorted in decreasing order of difference.
+
+A sequence of unmatched functions in decreasing order of instruction count.

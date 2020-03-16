@@ -1,0 +1,8 @@
+bm = Benchmark
+
+Creates a stack-call graph for a given library function
+
+Input: $bm.nodes, <list of node ids in a file>, Node cost threshold
+
+Output: $bm.svg
+
