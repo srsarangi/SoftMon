@@ -4,5 +4,7 @@ Creates a stack-call graph for a given library function
 
 Input: $bm.nodes, <list of node ids in a file>, Node cost threshold
 
+python path.py $bm.nodes $bm-lib.nodes $th
+
 Output: $bm.svg
 
